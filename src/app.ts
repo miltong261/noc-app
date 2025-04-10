@@ -1,9 +1,9 @@
 import { Server } from "./presentation/server"
 
 (() => {
-    main()
+  main()
 })()
 
 function main() {
-    Server.run()
+  Server.run()
 }
